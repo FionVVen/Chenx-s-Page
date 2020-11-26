@@ -1,0 +1,89 @@
+
+body{background-image:url("../assets/img/background.jpeg");
+    background-repeat:inherit;
+  }
+
+
+
+.navbar{
+    background-color:#fde3f7b2;
+}
+
+.navbar-light .navbar-brand{
+    color:dimgray;
+}
+
+.navbar-brand{
+    font-family: Goldman; 
+    font-size: 40px;
+}
+
+.nav-item{
+    font-family: Goldman;
+    font-size:30px;
+}
+
+.navbar-light .navbar-nav .nav-link.active{
+    color:dimgray; 
+}
+
+.container{
+    height: 1500px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-color:#fde3f7;
+ }
+
+ .page-section-heading{
+    font-family: Ubuntu;
+    color:dimgray;
+} 
+
+
+ .row{
+     height: 500px;
+     width: 100%;
+     font-family: Ubuntu;
+     color: #0501078c;
+ }
+
+ .img-thumbnail{
+     margin-left:30px;
+ }
+
+.img{
+    margin-left:30px;
+}
+
+ .p{
+     font-family: Ubuntu;
+     font-size: 20px;
+     text-align: center;
+     margin-top: 50px;
+     color: #0501078c;
+ }
+
+ .page-section{
+     font-family: Goldman;
+ }
+
+ .btn{
+    background-color: #e9baf5;
+ }
+
+ .icon{
+     color:#e9baf5;
+     position: absolute;
+     left:48%;
+ }
+
+ .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#fde3f79c;
+    color: dimgray;
+    text-align: center;
+    font-family: Goldman;
+  }
